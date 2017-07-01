@@ -1,8 +1,0 @@
-# GitRepository
-
-Estudos/Ambiente/java:		
-
-- git    : Rodrigo 	   / rodrigocfrazao@gmail.com
-- gitHub : RodrigocFrazao /  rodrigocfrazao@gmail.com / GitHub8126 
-
-senha ssh: git123
